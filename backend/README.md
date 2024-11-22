@@ -249,8 +249,6 @@ class AppError extends Error {
 For technical support or inquiries:
 
 - Email: support@vedina.ir
-- Technical Documentation: [Internal Link]
-- Emergency Contact: [Support Phone]
 
 ## 🏢 Company Information
 
